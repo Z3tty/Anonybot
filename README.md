@@ -7,3 +7,6 @@ Timeouts are controlled by the TIMEOUT global, set it to your preference.
 
 Currently, each server would require its own instance of Anonybot since submissions are handled via DM. If you have multiple servers you wish to use the bot in, you may
 add them all to a "pool" of anon-channels that the bot mass-messages the same submissions to.
+
+While the logging was initially for debug purposes, it is an effective way of identifying misuse. From an ethical perspective, you should inform users of your access to
+this information.
